@@ -1,2 +1,2 @@
-// Package api implements the connections and statement from REST
+// Package api implements the requests from REST
 package api
