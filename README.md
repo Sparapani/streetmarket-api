@@ -5,9 +5,9 @@
 - To make a request, use "Postman" or another software which supports REST calls
 
 The response statuses gonna be:
-200 - OK
-400 - Bad request (if some required field is empty)
-500 - Internal server error (generic error)
+- 200 - OK
+- 400 - Bad request (if some required field is empty)
+- 500 - Internal server error (generic error)
 
 - Its possible to check all logs on "smlogs.csv" at logs folder
 
